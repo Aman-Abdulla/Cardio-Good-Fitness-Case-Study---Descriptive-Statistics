@@ -1,6 +1,5 @@
 # Cardio-Good-Fitness-Case-Study---Descriptive-Statistics
 Descriptive Statistics - ML
-CardioGood Fitness Market Research Project
 This repository contains the data and code for the CardioGood Fitness Market Research Project. The project aims to identify the profile of the typical customer for each treadmill product offered by CardioGood Fitness and investigate potential differences across product lines with respect to customer characteristics. The data used for analysis is stored in the "CardioGoodFitness.csv" file.
 
 Data Description
